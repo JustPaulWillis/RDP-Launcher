@@ -14,7 +14,7 @@ GUI tool to mass launch remote desktop sessions from a CSV of DNS Hostnames or a
 3. Select desired options from the drop down (type of computer list, SYS or LAPS logon).
 4. Click the launch button or hit the return key.
 5. If prompted, enter SYS account credentials.
-6. Rember to sign-out of RDP sessions instead of just closing, because who wants to leave 1,000 computers with logged in sessions? :)
+6. Remember to sign-out of RDP sessions instead of just closing, because who wants to leave 1,000 computers with logged in sessions? :)
 
 Note: Written and tested with PowerShell 5.1
 
