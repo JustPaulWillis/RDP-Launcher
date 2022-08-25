@@ -19,4 +19,5 @@ GUI tool to mass launch remote desktop sessions from a CSV of DNS Hostnames or a
 Note: Written and tested with PowerShell 5.1
 
 Sanitized Screenshot:
+
 <img src="RDP-Launcher-Screenshot.png" width="450" >
