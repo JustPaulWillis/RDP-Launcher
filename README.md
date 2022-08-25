@@ -17,3 +17,5 @@ GUI tool to mass launch remote desktop sessions from a CSV of DNS Hostnames or a
 6. Rember to sign-out of RDP sessions instead of just closing, because who wants to leave 1,000 computers with logged in sessions? :)
 
 Note: Written and tested with PowerShell 5.1
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/RDP-Launcher-Screenshot.png?raw=true)
